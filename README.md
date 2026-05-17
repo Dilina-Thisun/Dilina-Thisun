@@ -18,9 +18,7 @@
 
 &nbsp;
 
-<a href="https://github.com/dilina-thisun?tab=followers">
-<img src="https://img.shields.io/github/followers/dilina-thisun?logo=github&style=for-the-badge&color=00E5FF&labelColor=1b1b1b"/>
-</a>
+
 
 </div>
 
