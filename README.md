@@ -138,20 +138,6 @@ Portfolio:
 
 </div>
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dilina-thisun&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=38BDF8&currStreakLabel=00E5FF"/>
-
-<br/><br/>
-
-
-
-</div>
 
 ---
 
