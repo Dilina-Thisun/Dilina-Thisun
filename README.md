@@ -12,7 +12,7 @@
 
 &nbsp;
 
-<a href="https://dilina-thisun.github.io/Dilina-Adikari-Portfolio/">
+<a href="https://dilina-thisun.github.io/DT_Solution/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-203A43?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
